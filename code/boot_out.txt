@@ -1,0 +1,1 @@
+Adafruit CircuitPython 283e072 on 2018-11-05; Adafruit Trellis M4 Express with samd51g19
